@@ -1,7 +1,7 @@
 
 # Web Scraping Utility
 
-This utility is designed for scraping data from web pages using Python. It makes use of libraries such as `requests`, `urllib`, `pandas`, `numpy`, `json`, `BeautifulSoup`, `cloudscraper`, and `selenium`, among others.
+This utility is designed for scraping data from web pages using Python for educational and research purpose only. It makes use of libraries such as `requests`, `urllib`, `pandas`, `numpy`, `json`, `BeautifulSoup`, `cloudscraper`, and `selenium`, among others.
 
 ## Features
 
