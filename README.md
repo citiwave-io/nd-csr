@@ -1,7 +1,7 @@
 
-# Web Scraping Utility
+# Harvest public information leveraging client side rendering
 
-This utility is designed for scraping data from web pages using Python for educational and research purpose only. It makes use of libraries such as `requests`, `urllib`, `pandas`, `numpy`, `json`, `BeautifulSoup`, `cloudscraper`, and `selenium`, among others.
+This utility is designed for harvesting data from web pages using Python for educational and research purpose only. It makes use of libraries such as `requests`, `urllib`, `pandas`, `numpy`, `json`, `BeautifulSoup`, `cloudscraper`, and `selenium`, among others.
 
 ## Features
 
